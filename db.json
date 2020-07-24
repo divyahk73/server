@@ -1,7 +1,4 @@
 {
-	"posts":[
-{
-	"ok": true,
 	"members": [{
 			"id": "W012A3CDE",
 			"real_name": "Egon Spengler",
@@ -39,6 +36,6 @@
 			]
 		}
 	]
-}
-]
+
+
 }
